@@ -1,0 +1,7 @@
+.blockquote {
+    padding: 1em;
+    margin-top: 1em;
+    background-color: #36454F;
+    border-left: white 5px solid;
+    border-radius: 5px;
+}
